@@ -1,0 +1,10 @@
+.action-cell {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: #dc322f;
+}
+
+.text-center {
+    text-align: center;
+}
